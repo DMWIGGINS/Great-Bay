@@ -1,0 +1,22 @@
+{
+  "name": "great_bay",
+  "version": "1.0.0",
+  "description": "class exercise",
+  "main": "greatBay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMWIGGINS/Great-Bay.git"
+  },
+  "author": "Doreen, Katie, Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMWIGGINS/Great-Bay/issues"
+  },
+  "homepage": "https://github.com/DMWIGGINS/Great-Bay#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
